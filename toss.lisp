@@ -23,3 +23,5 @@
 		(format t "You Lose!~%")
 	  )
   )
+
+(game)
